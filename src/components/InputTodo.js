@@ -1,4 +1,4 @@
-/*eslint-disable quotes */
+/* eslint-disable quotes */
 
 import React, { Component } from "react";
 
